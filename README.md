@@ -23,6 +23,10 @@ The following steps were carried out:
 -  Identified and removed logical duplicates based on: Full Name, Package, Local Government Area, and phone number
 -  Converted appropriate columns to correct data types(the submit_time column to date time data type from object)
 -  Exported the cleaned dataset for further analysis
+## Files Included
+- Data Cleaning Practice.xlsx
+- Data_Cleaning_Practice.ipynb
+- cleaned_data.xlsx 
 ## Key Learning Outcomes
 - Handling logical duplicates using subset-based deduplication
 - String manipulation and text normalization
