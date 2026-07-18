@@ -1,4 +1,4 @@
-# Python_Data_Cleaning_Practice
+# Tech Registration Data Cleaning & Analysis
 ## Project Title
 Data Cleaning and Preparation of a Tech Registration Dataset using Python (Pandas)
 ## Project Overview
